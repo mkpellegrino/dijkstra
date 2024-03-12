@@ -12,9 +12,10 @@ It's meant to represent the number of troops in an adversary's territory in risk
 
 
 A Node Map might look something like this:
-
+<pre>
 (A5) -- (B1) -- (C7) -- (D9)
    \___  |     /  |  
        (E6)--(F1) |
                 \ |
                  (G4)
+</pre>
